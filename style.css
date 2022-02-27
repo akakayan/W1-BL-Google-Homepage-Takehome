@@ -1,0 +1,195 @@
+body{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.top-container {
+  position: relative;
+  height: 100px;
+  font-family: sans-serif;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+p:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+p{
+  font-size: 85%
+}
+
+.about{
+  position: absolute;
+  left: 20px;
+  margin-top: 20px;
+}
+
+.store{
+  position: absolute;
+  left: 80px;
+  margin-top: 20px;
+}
+
+.gmail{
+  position: absolute;
+  right: 180px;
+  margin-top: 20px;
+}
+
+.images{
+  position: absolute;
+  right: 115px;
+  margin-top: 20px;
+}
+
+.nine-dots{
+  position: absolute;
+  right: 70px;
+  height: 25px;
+  width: 25px;
+  margin-top: 15px;
+}
+
+.nine-dots:hover{
+  background-size: 100px;
+  background-color: #dee3e0;
+  cursor:pointer;
+}
+
+.pfp{
+  position: absolute;
+  height:30px;
+  width:30px;
+  border-radius: 100%;
+  margin-top: 14px;
+  right: 20px;
+}
+
+.pfp:hover{
+  cursor:pointer;
+  position: absolute;
+  height:35px;
+  width:35px;
+  border-radius: 100%;
+  margin-top: 12px;
+  right: 17px;
+}
+
+.middle-container{
+  position: relative;
+  height: 270px;
+  margin-top: 120px;
+  margin-left: auto;
+  margin-right: auto ;
+  /* background-color: blue; */
+}
+
+.logo{
+  /* position: absolute; */
+  margin: auto;
+  display: block;
+  height: 95px;
+  width: 290px;
+}
+
+.textbox{
+  border-radius: 100px;
+  width: 550px;
+  height: 40px;
+  border-style: solid;
+  border-color: #dee3e0;
+  border-width: thin;
+  position: relative;
+  /* top: 170px;
+  left: 480px; */
+  margin: auto;
+  margin-top: 40px;
+}
+
+.textbox:hover{
+  border-width: medium;
+  margin-top: 39px;
+  /* top: 167px;
+  left: 477px; */
+}
+
+.bar{
+  /* position:absolute; */
+  position:relative;
+  height: 36px;
+  width: 460px;
+  margin: auto;
+  left: 40px;
+  border: none;
+  resize:none;
+  outline:none;
+  font-size: 20px;
+}
+
+.search{
+  height: 25px;
+  width: 25px;
+  position:absolute;
+  /* left: 13px;
+  top: 7px; */
+  left: 10px;
+  top: 7px;
+}
+
+.voice{
+  height: 40px;
+  width: 40px;
+  position:absolute;
+  right: 3px;
+  border-radius: 100%;
+}
+
+.voice:hover{
+  cursor:pointer;
+}
+
+.buttons{
+  position:relative;
+  width: 260px;
+  margin: 60px auto 0 auto;
+}
+
+.search-button{
+  position:absolute;
+  left: 0;
+  bottom:0;
+  height: 33px;
+  width: 120px;
+  background-color: #f5f5f5;
+  border: none;
+}
+
+.lucky-button{
+  position:absolute;
+  right:0px;
+  bottom:0;
+  height: 33px;
+  width: 120px;
+  background-color: #f5f5f5;
+  border: none;
+}
+
+.search-button:hover{
+  background-color: #e8e8e8;
+  border: solid;
+  border-color: #b8b8b8;
+  border-width: thin;
+  cursor:pointer;
+}
+
+.lucky-button:hover{
+  background-color: #e8e8e8;
+  border: solid;
+  border-color: #b8b8b8;
+  border-width: thin;
+  cursor:pointer;
+}

@@ -57,7 +57,7 @@ p{
 .nine-dots:hover{
   background-size: 100px;
   background-color: #dee3e0;
-  cursor:pointer; 
+  cursor:pointer;
 }
 
 .pfp{
@@ -82,13 +82,16 @@ p{
 .middle-container{
   position: relative;
   height: 270px;
-  margin-top: 45px;
+  margin-top: 120px;
+  margin-left: auto;
+  margin-right: auto ;
+  /* background-color: blue; */
 }
 
 .logo{
-  position: absolute;
-  left: 610px;
-  top: 50px;
+  /* position: absolute; */
+  margin: auto;
+  display: block;
   height: 95px;
   width: 290px;
 }
@@ -101,20 +104,25 @@ p{
   border-color: #dee3e0;
   border-width: thin;
   position: relative;
-  top: 170px;
-  left: 480px;
+  /* top: 170px;
+  left: 480px; */
+  margin: auto;
+  margin-top: 40px;
 }
 
 .textbox:hover{
   border-width: medium;
-  top: 167px;
-  left: 477px;
+  margin-top: 39px;
+  /* top: 167px;
+  left: 477px; */
 }
 
 .bar{
-  position:absolute;
+  /* position:absolute; */
+  position:relative;
   height: 36px;
   width: 460px;
+  margin: auto;
   left: 40px;
   border: none;
   resize:none;
@@ -126,7 +134,9 @@ p{
   height: 25px;
   width: 25px;
   position:absolute;
-  left: 13px;
+  /* left: 13px;
+  top: 7px; */
+  left: 10px;
   top: 7px;
 }
 
@@ -142,10 +152,16 @@ p{
   cursor:pointer;
 }
 
+.buttons{
+  position:relative;
+  width: 260px;
+  margin: 60px auto 0 auto;
+}
+
 .search-button{
   position:absolute;
-  left: 630px;
-  bottom: 0;
+  left: 0;
+  bottom:0;
   height: 33px;
   width: 120px;
   background-color: #f5f5f5;
@@ -154,7 +170,7 @@ p{
 
 .lucky-button{
   position:absolute;
-  right:630px;
+  right:0px;
   bottom:0;
   height: 33px;
   width: 120px;

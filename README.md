@@ -9,6 +9,8 @@ We have provided you with the necessary image files and the html shell code. If 
 
 You will also see in the html shell code we've provided that we refer to an image called "images/headshot.jpeg" For this, upload your own profile picture to the image folder inside the directory we gave you. If the profile picture name is something other than "headshot.jpeg", make sure to update the html code accordingly. 
 
-## End Result ## 
+## Before Styling ## 
+![Screenshot](before.png)
 
+## After Styling ## 
 ![Screenshot](after.png)

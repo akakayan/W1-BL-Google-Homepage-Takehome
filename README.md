@@ -1,6 +1,6 @@
 # Workshop #1 Take-Home *Boss Level*: Google Homepage Clone
 
-## Instructions ## 
+## Instructions ##  
 
 Your goal for this takehome assignment is to create a replica of the Google Homepage using basic html and css (don't worry, it doesn't actually have to funciton at 
 all, you just want to create a webpage that looks similar!) 

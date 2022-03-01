@@ -1,4 +1,4 @@
-# Workshop #1 Take-Home Challenge: Google Homepage Clone
+# Workshop #1 Take-Home *Boss Level*: Google Homepage Clone
 
 ## Instructions ## 
 

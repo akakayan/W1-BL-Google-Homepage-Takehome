@@ -11,6 +11,8 @@ You will also see in the html shell code we've provided that we refer to an imag
 
 Feel free to modify the index.html file we provided you if you want. 
 
+**Challenge:** change the hover state of the buttons, search bar, and header links to mimic the real google.com homepage. For example, the header links should be underlined when you hover over them and the cursor will change to a pointer. Similarly, the buttons under the search bar will change color when you hover over them. 
+
 ## Before Styling ## 
 ![Screenshot](before.png)
 

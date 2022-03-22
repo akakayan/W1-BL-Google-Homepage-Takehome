@@ -1,0 +1,90 @@
+img{
+    max-height: 100%;
+    max-width: auto;
+    vertical-align: middle;
+}
+
+p{
+    max-height: 100%;
+    max-width: auto;
+}
+
+.top-container{
+    height: 40px;
+    width: auto;
+    margin-bottom: 100px;
+}
+
+.middle-container{
+    height: 100px;
+    text-align: center;
+}
+
+.textbox{
+    height: 30px;
+    margin-top: 30px;
+}
+
+.bar{
+    width: 35%;
+    height: 30px;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.about{
+    display: inline;
+    margin-right: 20px;
+    align-items: center;
+}
+
+.store{
+    display: inline;
+    margin-right: 1300px;
+    align-items: center;
+}
+
+.gmail{
+    display: inline;
+    margin-right: 20px;
+    align-items: center;
+}
+
+.images{
+    display: inline;
+    margin-right: 20px;
+    align-items: center;
+}
+
+.search{
+    margin-right: -40px;
+    position: relative;
+}
+
+.voice{
+    margin-left: -47px;
+}
+.nine-dots{
+    display: inline;
+    margin-right: 20px;
+    align-items: center;
+}
+
+
+.pfp{
+    display: inline;
+    margin-right: 20px;
+    align-items: center;
+}
+
+
+.buttons{
+    margin-top: 40px;
+}
+
+button{
+    border: none;
+    padding: 10px 25px;
+    margin: 0 10px;
+}
